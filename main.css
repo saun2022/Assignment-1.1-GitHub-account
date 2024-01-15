@@ -1,26 +1,55 @@
-<!DOCTYPE html>
 <html>
 <head>
 <style>
-body {
-  background-color: lightblue;
-}
 
-h1 {
-  color: white;
-  text-align: center;
+   body {
+  background-color: lightblue;
 }
 
 p {
   font-family: verdana;
   font-size: 20px;
 }
+
+header {
+  text-align: center;
+}
+
+
+nav {
+  float: left;
+  height: 6000px;
+  width: 200px;
+  line-height: 30px; 
+  padding: 5px;
+}
+
+footer {
+  margin-right: 200px;
+  text-align: center;
+}
+
+
+img {
+  margin-right: 200px;
+}
+
 </style>
+   
 </head>
 <body>
 
-<h1>My First CSS Example</h1>
-<p>This is a paragraph.</p>
+<img src="smiling face with smiling eyes" alt="smiling face with smiling eyes" width="500" height="600">
 
+
+<h1>My Major Objectives</h1>
+<p>1.Follow a software development processs to analyze a problem and to design, build, and test software solutions</p>
+<p>2.Demonstrate software development skills using more than one programming language and development environment</p>
+<p>3.Implement data-driven solutions</p>
+<p>4.Design and implement softwate solutions for mobile devices, embedded systems, and/or multiple platforms</p>
+<p>5.Document the planning and development of software applicaitions using industry-standard tools, techniques and processes</p>
+<p>6.Within software solutions describe, implement, and analzye data structures techniques such as lists, trees, hash tables and graphs, along with sorting and searching algorithms</p>
+  
 </body>
 </html>
+
